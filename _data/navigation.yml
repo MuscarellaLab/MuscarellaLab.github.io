@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Research"
+    url: /research/
+  - title: "People"
+    url: /people/
+  - title: "Opportunities"
+    url: /opportunities/
+  - title: "Contact"
+    url: /contact/
