@@ -1,11 +1,22 @@
 ---
 layout: single
 classes: wide
-title: Contact Info
+title: Lab Info
 author_profile: true
-permalink: /contact/
+permalink: /info/
 header:
   image: /assets/images/header_boreal2.jpg
 ---
 
-test
+## Contact Info
+
+
+
+## DEIJ
+
+
+
+## Resources
+
+
+
