@@ -1,5 +1,8 @@
 ---
 layout: splash
+classes:
+  - landing
+  - dark-theme
 permalink: /
 hidden: true
 header:
@@ -11,24 +14,24 @@ excerpt:
   Institute of Arctic Biology <br>
   University of Alaska Fairbanks
 feature_row:
-  - image_path: /assets/images/HMWF008_500x300.jpg
+  - image_path: /assets/images/Search.png
     alt: "Research"
     title: "Current Research"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    excerpt: "We have a number of ongoing projects that explore the ecology and physiology of microbial communities across ecosystems."
+    url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/HMWF008_500x300.jpg
+  - image_path: /assets/images/Collaborate.png
     alt: "People"
-    title: "People"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    title: "Lab Members"
+    excerpt: "We are a new but growing reserach group. Learn more about the research group and our interests."
+    url: "/people/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/HMWF008_500x300.jpg
+  - image_path: /assets/images/Join.png
     alt: "Opportunities"
     title: "Opportunities"
-    excerpt: "We are always looking for motivated individuals to join our collaborative research team. Currenlty seeking undergraduate and graduate students."
+    excerpt: "We are looking for motivated individuals to join our collaborative team. Opportunities for undergraduate and graduate students."
     url: "/opportunities/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      

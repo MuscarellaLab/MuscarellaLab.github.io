@@ -2,9 +2,13 @@
 main:
   - title: "Research"
     url: /research/
+  - title: "Teaching"
+    url: /teaching/
   - title: "People"
     url: /people/
   - title: "Opportunities"
     url: /opportunities/
+  - title: "Publications"
+    url: /publications/
   - title: "Contact"
     url: /contact/
