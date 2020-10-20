@@ -33,17 +33,6 @@ feature_row2:
 
 
 
-
-
-
-**YOU!!!!**
-
-*Please contact me for available opportunities*
-
-
-
-
-
 ---
 ##  Past Lab Members
 
