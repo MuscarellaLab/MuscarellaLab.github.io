@@ -1,14 +1,14 @@
 # main links
 main:
-  - title: "People"
-    url: /people/
   - title: "Research"
     url: /research/
+  - title: "People"
+    url: /people/
+  - title: "Publications"
+    url: /publications/
   - title: "Teaching"
     url: /teaching/
   - title: "Opportunities"
     url: /opportunities/
-  - title: "Publications"
-    url: /publications/
   - title: "Info"
     url: /info/
