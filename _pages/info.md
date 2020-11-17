@@ -12,7 +12,7 @@ We acknowledge the Alaska Native nations upon whose traditional lands our campus
 
 ## Contact Info
 
-**Musarella Lab**
+**Musarella Lab** <br>
 Institute of Arctic Biology <br>
 University of Alaska Fairbanks <br>
 PO Box 757000 <br>
