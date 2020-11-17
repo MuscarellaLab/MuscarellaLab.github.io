@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: Lab Members
+title: People
 permalink: /people/
 author_profile: true
 header:
