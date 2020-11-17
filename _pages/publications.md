@@ -8,8 +8,7 @@ header:
   image: /assets/images/header_boreal2.jpg
 ---
 
-## In Review, In Revision, and/or Preprints:
----
+### In Review, In Revision, and/or Preprints:
 
 **Muscarella ME**, O'Dwyer JP (In Revision) 
 Ecological insights from the evolutionary history of microbial innovations. 
@@ -21,8 +20,7 @@ Moving microbes: the dynamics of transient microbial residence on human skin.
 bioRxiv preprint available , DOI: https://doi.org/10.1101/586008 
 
 
-## Published or In Press: (* = non-peer-reviewed)
----
+### Published or In Press: (* = non-peer-reviewed)
 
 Peralta AL, Bledsoe RB, **Muscarella ME**, Huntemann M, Clum A, Foster B, Foster B, Roux S, Palaniappan K, Varghese N, Mukherjee S, Reddy TBK,  Daum C, Copeland A, Chen IMA, Ivanova NN, Kyrpides NC, Del Rio TG, Eloe-Fadrosh EA (2020)
 Metagenomes from Experimental Hydrologic Manipulation of Restored Coastal Plain Wetland Soils (Tyrell County, North Carolina)
