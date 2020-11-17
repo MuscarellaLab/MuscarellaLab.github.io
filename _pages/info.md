@@ -13,18 +13,18 @@ We acknowledge the Alaska Native nations upon whose traditional lands our campus
 ## Contact Info
 
 **Musarella Lab**
-Institute of Arctic Biology
-University of Alaska Fairbanks
-PO Box 757000
-Fairbanks, AK 99775
+Institute of Arctic Biology <br>
+University of Alaska Fairbanks <br>
+PO Box 757000 <br>
+Fairbanks, AK 99775 <br>
 
-Office: 
-West Ridge Research Building
-WRRB 242
-Ph (907) 474-7955
+Office: <br>
+West Ridge Research Building <br>
+WRRB 242 <br>
+Ph (907) 474-7955 <br>
 
-Lab:
-WRRB 207
+Lab: <br>
+WRRB 207 <br>
 
 
 
