@@ -12,7 +12,7 @@ feature_row1:
     title: "Mario Muscarella"
     excerpt: "**Principal Investigator** <br> 
               *Research Interests*: Microbial Ecology, Ecophysiology, Growth Efficiency"
-    url: "/CV/"
+    url: "/cv/"
     btn_class: "btn--primary"
     btn_label: "   CV   "
 feature_row2:

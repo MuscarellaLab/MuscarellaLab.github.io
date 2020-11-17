@@ -11,7 +11,7 @@ feature_row1:
     alt: "Metabolism"
     title: "Microbial Metabolism"
     excerpt: "Microbial metabolic rates link the composition of microbial communities to aquatic carbon dynamics. We use a mixture of theory, lab experiments, and field observations to study to metabolism of microbial communities and the consequences for ecosystem function"
-    url: "/research/#metabolism"
+    url: "/research2/#metabolism"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row2:
@@ -19,7 +19,7 @@ feature_row2:
     alt: "Heterogeneity"
     title: "Resource Heterogeneity"
     excerpt: "While often considered a homologous pool, many resources exist as heterogeneous mixtures of multiple chemical forms. We use a mixture of lab experiments and field observations to study how the heterogeneity of resources contributes to microbial diversity and ecosystem function."
-    url: "/research/#heterogeneity"
+    url: "/research2/#heterogeneity"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row3:
@@ -27,7 +27,7 @@ feature_row3:
     alt: "Traits"
     title: "Microbial Traits"
     excerpt: "Microbial traits link community composition to species interactions and ecosystem function. We use a mixture of bioinformatics, genomics, lab experiments, and field observations to study the traits that regulate the species interactions and ecosystem function."
-    url: "/research/#traits"
+    url: "/research2/#traits"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
 feature_row4:
@@ -35,7 +35,7 @@ feature_row4:
     alt: "Other"
     title: "Other Projects"
     excerpt: "We also have a number of other project and collaborations exploring the microbial ecology across ecosystems."
-    url: "/research/#other"
+    url: "/research2/#other"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
 
