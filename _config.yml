@@ -98,7 +98,6 @@ author:
   bio              : "Microbial Ecology and <br> Ecophysiology Lab <br>  <br> 
                       We are an **amazing** lab!"
   location         : "Fairbanks, AK"
-  email            : memuscarella@alaska.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
