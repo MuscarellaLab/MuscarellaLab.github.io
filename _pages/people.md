@@ -1,6 +1,6 @@
 ---
 layout: single
-classes: wide
+classes: normal
 title: People
 permalink: /people/
 author_profile: true
@@ -11,11 +11,50 @@ feature_row1:
     alt: "Mario"
     title: "Mario Muscarella"
     excerpt: "**Principal Investigator** <br> 
-              *Research Interests*: Microbial Ecology, Ecophysiology, Growth Efficiency"
+              *Research Interests*: Microbial Ecology, Ecophysiology, Growth Efficiency <br>
+              [Google Scholar](https://scholar.google.com/citations?user=8i5qwBQAAAAJ&hl=en) <br>
+              [ORCiD](https://orcid.org/0000-0001-6183-6037)"
     url: "/cv/"
     btn_class: "btn--primary"
     btn_label: "   CV   "
+
 feature_row2:
+  - image_path: /assets/images/Bird_2021.jpg
+    alt: "Shannyn"
+    title: "Shannyn Bird"
+    excerpt: "**Lab Technician** <br> 
+              Reserach Interests: "
+
+feature_row3:
+  - image_path: /assets/images/Blank-profile-picture-circle-hd.png
+    alt: "Kodi"
+    title: "Kodi Haughn"
+    excerpt: "**PhD Student (Co-Advised w/ Brandon Briggs)** <br> 
+              Reserach Interests: "
+
+feature_row4:
+  - image_path: /assets/images/Blank-profile-picture-circle-hd.png
+    alt: "Jules"
+    title: "Jules Pender"
+    excerpt: "**INBRE Undergraduate Research Assistant** <br> 
+              Reserach Interests: "
+
+feature_row5:
+  - image_path: /assets/images/Blank-profile-picture-circle-hd.png
+    alt: "Kaia"
+    title: "Kaia Victorino"
+    excerpt: "**BNZ LTER REU Research Assistant** <br> 
+              Reserach Interests: "
+
+feature_row6:
+  - image_path: /assets/images/Blank-profile-picture-circle-hd.png
+    alt: "Jill"
+    title: "Jill Jacobs"
+    excerpt: "**Undergraduate Research Assistant** <br> 
+              Reserach Interests: The Berry Microbiome"
+
+
+feature_rowX:
   - image_path: /assets/images/Blank-profile-picture-circle-hd.png
     alt: "You"
     title: "You!!!"
@@ -31,6 +70,15 @@ feature_row2:
 
 {% include feature_row id="feature_row2" type="left" %}
 
+{% include feature_row id="feature_row3" type="left" %}
+
+{% include feature_row id="feature_row4" type="left" %}
+
+{% include feature_row id="feature_row5" type="left" %}
+
+{% include feature_row id="feature_row6" type="left" %}
+
+{% include feature_row id="feature_rowX" type="left" %}
 
 
 ---

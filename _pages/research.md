@@ -1,6 +1,6 @@
 ---
 layout: single
-classes: wide
+classes: normal
 title: Research
 author_profile: true
 permalink: /research/

@@ -1,6 +1,6 @@
 ---
 layout: single
-classes: wide
+classes: normal
 title: Lab Info
 author_profile: true
 permalink: /info/
@@ -25,7 +25,6 @@ Ph (907) 474-7955 <br>
 
 Lab: <br>
 WRRB 207 <br>
-
 
 
 ## DEIJ

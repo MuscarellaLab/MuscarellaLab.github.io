@@ -1,6 +1,6 @@
 ---
 layout: single
-classes: wide
+classes: normal
 title: Teaching Philosophy
 author_profile: true
 permalink: /teaching/
