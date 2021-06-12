@@ -1,6 +1,6 @@
 ---
 layout: single
-classes: normal
+classes: wide
 title: People
 permalink: /people/
 author_profile: true

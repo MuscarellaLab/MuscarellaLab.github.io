@@ -1,5 +1,6 @@
 ---
 layout: archive
+classes: wide
 title: Teaching Philosophy
 author_profile: true
 permalink: /TeachingPhilosophy/
