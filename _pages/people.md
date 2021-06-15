@@ -40,11 +40,12 @@ feature_row4:
               Reserach Interests: "
 
 feature_row5:
-  - image_path: /assets/images/Blank-profile-picture-circle-hd.png
+  - image_path: /assets/images/Victorino.jpeg
     alt: "Kaia"
     title: "Kaia Victorino"
     excerpt: "**BNZ LTER REU Research Assistant** <br> 
-              Reserach Interests: "
+              Reserach Interests: One Health - promoting the health of the natural world <br>
+              Current Project: Microbes and Mercury in the Interior"
 
 feature_row6:
   - image_path: /assets/images/Blank-profile-picture-circle-hd.png

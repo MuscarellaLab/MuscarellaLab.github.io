@@ -1,6 +1,6 @@
 ---
 layout: single
-classes: normal
+classes: wide
 title: Opportunities
 author_profile: true
 permalink: /opportunities/
