@@ -23,36 +23,37 @@ feature_row2:
     alt: "Shannyn"
     title: "Shannyn Bird"
     excerpt: "**Lab Technician** <br> 
-              Reserach Interests: "
+              *Reserach Interests*: "
 
 feature_row3:
   - image_path: /assets/images/Blank-profile-picture-circle-hd.png
     alt: "Kodi"
     title: "Kodi Haughn"
-    excerpt: "**PhD Student (Co-Advised w/ Brandon Briggs)** <br> 
-              Reserach Interests: "
+    excerpt: "**PhD Student** (Co-Advised w/ Brandon Briggs at UAA) <br> 
+              *Reserach Interests*: "
 
 feature_row4:
-  - image_path: /assets/images/Blank-profile-picture-circle-hd.png
+  - image_path: /assets/images/Pender.jpg
     alt: "Jules"
     title: "Jules Pender"
     excerpt: "**INBRE Undergraduate Research Assistant** <br> 
-              Reserach Interests: "
+              *Reserach Interests*: Environmental health and the applications of plant and microbial biology <br>
+              *Current Project*: Microbes and Mercury in the Interior"
 
 feature_row5:
   - image_path: /assets/images/Victorino.jpeg
     alt: "Kaia"
     title: "Kaia Victorino"
     excerpt: "**BNZ LTER REU Research Assistant** <br> 
-              Reserach Interests: One Health - promoting the health of the natural world <br>
-              Current Project: Microbes and Mercury in the Interior"
+              *Reserach Interests*: One Health - promoting the health of the natural world <br>
+              *Current Project*: Microbes and Mercury in the Interior"
 
 feature_row6:
   - image_path: /assets/images/Blank-profile-picture-circle-hd.png
     alt: "Jill"
     title: "Jill Jacobs"
     excerpt: "**Undergraduate Research Assistant** <br> 
-              Reserach Interests: The Berry Microbiome"
+              *Reserach Interests*: The Berry Microbiome"
 
 
 feature_rowX:
