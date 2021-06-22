@@ -23,21 +23,21 @@ feature_row2:
     alt: "Shannyn"
     title: "Shannyn Bird"
     excerpt: "**Lab Technician** <br> 
-              *Reserach Interests*: "
+              *Research Interests*: Computational biology, molecular genetics, metabolic biochemistry, and cell cycle control"
 
 feature_row3:
   - image_path: /assets/images/Blank-profile-picture-circle-hd.png
     alt: "Kodi"
     title: "Kodi Haughn"
     excerpt: "**PhD Student** (Co-Advised w/ Brandon Briggs at UAA) <br> 
-              *Reserach Interests*: "
+              *Research Interests*: "
 
 feature_row4:
   - image_path: /assets/images/Pender.jpg
     alt: "Jules"
     title: "Jules Pender"
     excerpt: "**INBRE Undergraduate Research Assistant** <br> 
-              *Reserach Interests*: Environmental health and the applications of plant and microbial biology <br>
+              *Research Interests*: Environmental health and the applications of plant and microbial biology <br>
               *Current Project*: Microbes and Mercury in the Interior"
 
 feature_row5:
@@ -45,7 +45,7 @@ feature_row5:
     alt: "Kaia"
     title: "Kaia Victorino"
     excerpt: "**BNZ LTER REU Research Assistant** <br> 
-              *Reserach Interests*: One Health - promoting the health of the natural world <br>
+              *Research Interests*: One Health - promoting the health of the natural world <br>
               *Current Project*: Microbes and Mercury in the Interior"
 
 feature_row6:
@@ -53,7 +53,7 @@ feature_row6:
     alt: "Jill"
     title: "Jill Jacobs"
     excerpt: "**Undergraduate Research Assistant** <br> 
-              *Reserach Interests*: The Berry Microbiome"
+              *Research Interests*: The Berry Microbiome"
 
 
 feature_rowX:
