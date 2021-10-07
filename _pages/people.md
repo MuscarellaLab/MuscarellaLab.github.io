@@ -88,6 +88,8 @@ feature_rowX:
 
 {% include feature_row id="feature_row6" type="left" %}
 
+{% include feature_row id="feature_row7" type="left" %}
+
 {% include feature_row id="feature_rowX" type="left" %}
 
 
