@@ -36,7 +36,7 @@ feature_row4:
   - image_path: /assets/images/Pender.jpg
     alt: "Jules"
     title: "Jules Pender"
-    excerpt: "**INBRE Undergraduate Research Assistant** <br> 
+    excerpt: "**Undergraduate Research Assistant** <br> 
               *Research Interests*: Environmental health and the applications of plant and microbial biology <br>
               *Current Project*: Microbes and Mercury in the Interior"
 
@@ -49,12 +49,20 @@ feature_row5:
               *Current Project*: Microbes and Mercury in the Interior"
 
 feature_row6:
-  - image_path: /assets/images/Blank-profile-picture-circle-hd.png
+  - image_path: /assets/images/Jacobs.jpeg
     alt: "Jill"
     title: "Jill Jacobs"
     excerpt: "**Undergraduate Research Assistant** <br> 
+              **BLaST Scholar** <br> 
               *Research Interests*: The Berry Microbiome"
 
+feature_row7:
+  - image_path: /assets/images/Baker-Chapman.png
+    alt: "Tyler"
+    title: "Tyler Baker-Chapman"
+    excerpt: "**Undergraduate Research Assistant** <br> 
+              **BLaST Scholar** <br> 
+              *Research Interests*: Bacteria-Phage Co-Evolution"
 
 feature_rowX:
   - image_path: /assets/images/Blank-profile-picture-circle-hd.png

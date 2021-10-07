@@ -31,7 +31,7 @@ feature_row:
   - image_path: /assets/images/Join.png
     alt: "Opportunities"
     title: "Opportunities"
-    excerpt: "We are looking for motivated individuals to join our collaborative team. Opportunities for undergraduate and graduate students."
+    excerpt: "We are looking for motivated individuals to join our collaborative team. Opportunities for technicians, undergraduates and graduate students."
     url: "/opportunities/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
