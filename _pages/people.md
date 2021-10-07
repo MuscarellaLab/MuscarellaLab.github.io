@@ -26,7 +26,7 @@ feature_row2:
               *Research Interests*: Computational biology, molecular genetics, metabolic biochemistry, and cell cycle control"
 
 feature_row3:
-  - image_path: /assets/images/Blank-profile-picture-circle-hd.png
+  - image_path: /assets/images/Haughn.jpg
     alt: "Kodi"
     title: "Kodi Haughn"
     excerpt: "**PhD Student** (Co-Advised w/ Brandon Briggs at UAA) <br> 
