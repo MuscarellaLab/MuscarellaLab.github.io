@@ -64,6 +64,15 @@ feature_row7:
               **BLaST Scholar** <br> 
               *Research Interests*: Bacteria-Phage Co-Evolution"
 
+feature_row8:
+  - image_path: /assets/images/Blank-profile-picture-circle-hd.png
+    alt: "Rya"
+    title: "Rya"
+    excerpt: "**The Newest Lab member** <br> "
+    url: "/opportunities/"
+    btn_class: "btn--primary"
+    btn_label: " More Info "
+
 feature_rowX:
   - image_path: /assets/images/Blank-profile-picture-circle-hd.png
     alt: "You"
