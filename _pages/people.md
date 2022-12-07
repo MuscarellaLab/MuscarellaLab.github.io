@@ -6,7 +6,7 @@ permalink: /people/
 author_profile: true
 header:
   image: /assets/images/header_boreal2.jpg
-feature_row1:
+feature_row_mario:
   - image_path: /assets/images/Muscarella_UAF_2020_5x7.jpg
     alt: "Mario"
     title: "Mario Muscarella"
@@ -18,45 +18,47 @@ feature_row1:
     btn_class: "btn--primary"
     btn_label: "   CV   "
 
-feature_row2:
-  - image_path: /assets/images/Bird_2021.jpg
-    alt: "Shannyn"
-    title: "Shannyn Bird"
-    excerpt: "**Lab Technician** <br> 
-              *Research Interests*: Computational biology, molecular genetics, metabolic biochemistry, and cell cycle control"
+feature_row_amanda:
+  - image_path: /assets/images/Stromecki.jpg
+    alt: "Amanda"
+    title: "Amanda Stromecki"
+    excerpt: "**Research Professional** <br> 
+              *Research Interests*: Understanding the roles microbes play in human, wildlife, and ecosystem heath. Research approaches include culture-based, molecular, and computational tools. <br>
+              [Google Scholar](https://scholar.google.com/citations?hl=en&user=AaTzvAMAAAAJ)"
+    url: {{ site.url }}/assets/docs/Stromecki_CV_2022.pdf
+    btn_class: "btn--primary"
+    btn_label: "   CV   "
 
-feature_row3:
+feature_row_kodi:
   - image_path: /assets/images/Haughn.jpg
     alt: "Kodi"
     title: "Kodi Haughn"
     excerpt: "**PhD Student** (Co-Advised w/ Brandon Briggs at UAA) <br> 
               *Research Interests*: "
 
-feature_row4:
+feature_row_becca:
+  - image_path: /assets/images/Olson.jpeg
+    alt: "Becca"
+    title: "Becca Olson"
+    excerpt: "**MS Student** <br> 
+              *Research Interests*: Carbon Cycling, Mercury Cycling, One Health "
+
+feature_row_hannah:
+  - image_path: /assets/images/Woody.jpg
+    alt: "Hannah"
+    title: "Hannah Woody"
+    excerpt: "**MS Student**  <br> 
+              *Research Interests*: Microbial Energetics, Astrobiology"
+
+feature_row_pender:
   - image_path: /assets/images/Pender.jpg
-    alt: "Jules"
-    title: "Jules Pender"
+    alt: "Julian"
+    title: "Julian Pender"
     excerpt: "**Undergraduate Research Assistant** <br> 
               *Research Interests*: Environmental health and the applications of plant and microbial biology <br>
               *Current Project*: Microbes and Mercury in the Interior"
 
-feature_row5:
-  - image_path: /assets/images/Victorino.jpeg
-    alt: "Kaia"
-    title: "Kaia Victorino"
-    excerpt: "**BNZ LTER REU Research Assistant** <br> 
-              *Research Interests*: One Health - promoting the health of the natural world <br>
-              *Current Project*: Microbes and Mercury in the Interior"
-
-feature_row6:
-  - image_path: /assets/images/Jacobs.jpeg
-    alt: "Jill"
-    title: "Jill Jacobs"
-    excerpt: "**Undergraduate Research Assistant** <br> 
-              **BLaST Scholar** <br> 
-              *Research Interests*: The Berry Microbiome"
-
-feature_row7:
+feature_row_baker:
   - image_path: /assets/images/Baker-Chapman.png
     alt: "Tyler"
     title: "Tyler Baker-Chapman"
@@ -64,14 +66,13 @@ feature_row7:
               **BLaST Scholar** <br> 
               *Research Interests*: Bacteria-Phage Co-Evolution"
 
-feature_row8:
-  - image_path: /assets/images/Blank-profile-picture-circle-hd.png
-    alt: "Rya"
-    title: "Rya"
-    excerpt: "**The Newest Lab member** <br> "
-    url: "/opportunities/"
-    btn_class: "btn--primary"
-    btn_label: " More Info "
+feature_row_ramirez:
+  - image_path: /assets/images/Ramirez.jpg
+    alt: "Michelle"
+    title: "Michelle Rameriz"
+    excerpt: "**Undergraduate Research Assistant** <br> 
+              **BLaST Scholar** <br> 
+              *Research Interests*: Microbiomes"
 
 feature_rowX:
   - image_path: /assets/images/Blank-profile-picture-circle-hd.png
@@ -85,21 +86,21 @@ feature_rowX:
 
 ---
 
-{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row_mario_" type="left" %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row_amanda" type="left" %}
 
-{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row_kodi" type="left" %}
 
-{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="feature_row_becca" type="left" %}
 
-{% include feature_row id="feature_row5" type="left" %}
+{% include feature_row id="feature_row_hannah" type="left" %}
 
-{% include feature_row id="feature_row6" type="left" %}
+{% include feature_row id="feature_row_pender" type="left" %}
 
-{% include feature_row id="feature_row7" type="left" %}
+{% include feature_row id="feature_row_baker" type="left" %}
 
-{% include feature_row id="feature_row8" type="left" %}
+{% include feature_row id="feature_row_ramirez" type="left" %}
 
 {% include feature_row id="feature_rowX" type="left" %}
 
@@ -107,11 +108,21 @@ feature_rowX:
 ---
 ##  Past Lab Members
 
-**Belen Muniz**, University of Illinois at Urbana-Champaign<br>
+| Who                                                         | When       |                                                                                                                                  What                                                                                                                                   | Where Now? |
+| ----------------------------------------------------------- | :--------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------- |
+| ** Kaia Victorino**, University of Alaska Fairbanks, **BNZ LTER REU Research Assistant** One Health - promoting the health of the natural world 
+| ** Shannyn Bird** Lab Technician. Computational biology, molecular genetics, metabolic biochemistry, and cell cycle control
+| ** Jill Jacobs**, **Undergraduate Research Assistant**  **BLaST Scholar**
+| ** 
+| **Belen Muniz**, University of Illinois at Urbana-Champaign | 2017--2018 |                                                          theoretical framework to understand how allochthonous and autochthonous resources interact and influence the composition and stability of communities                                                          |            |
+| **Mollie Carrison**, Indiana University                     | 2015--2016 |                                                                    Mollie worked on an experiment system to quantify the variation in population size decay when microbial populations are starving                                                                     |            |
+| **Xia Meng Howey**, Indiana University                      | 2013--2015 | Xia Meng worked on establishing a culture collection from Lakes in the Huron Mountain Wildlife Preserve to explore variation in resource use. Once the collection was established she worked on developing methods and testing competitive strategies between isolates. | EPA        |
+
+, University of Illinois at Urbana-Champaign<br>
 *The Resource Interference Model*: Aquatic environments often contain a diverse selection of resources which microorganisms can use. Often this consists of a mixture of allochthonous resources when enter from outside the system and autochthonous resources which are produced within the system. Belen worked on a theoretical framework to understand how allochthonous and autochthonous resources interact and influence the composition and stability of communities.
 
-**Mollie Carrison**, Indiana University <br>
+ <br>
 *Physiological Responses to Starvation*: Microorganisms often contend with prolonged resource limitation and full starvation. Yet do not fully understand how different organisms respond to these situation. Mollie worked on an experiment system to quantify the variation in population size decay when microbial populations are starving (i.e., no available resources).
 
-**Xia Meng Howey**, Indiana University <br>
+ <br>
 *Microbial Carbon Traits & The HMWF Culture Collection*: Microorganisms often have the ability to use various resources to meet their physiological requirements. Yet, organisms may use resources in different ways. Xia Meng worked on establishing a culture collection from Lakes in the Huron Mountain Wildlife Preserve to explore variation in resource use. Once the collection was established she worked on developing methods and testing competitive strategies between isolates.
