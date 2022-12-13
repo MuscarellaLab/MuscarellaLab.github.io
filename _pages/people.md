@@ -6,6 +6,7 @@ permalink: /people/
 author_profile: true
 header:
   image: /assets/images/header_boreal2.jpg
+
 feature_row_mario:
   - image_path: /assets/images/Muscarella_UAF_2020_5x7.jpg
     alt: "Mario"
@@ -25,7 +26,7 @@ feature_row_amanda:
     excerpt: "**Research Professional** <br> 
               *Research Interests*: Understanding the roles microbes play in human, wildlife, and ecosystem heath. Research approaches include culture-based, molecular, and computational tools. <br>
               [Google Scholar](https://scholar.google.com/citations?hl=en&user=AaTzvAMAAAAJ)"
-    url: {{ site.url }}/assets/docs/Stromecki_CV_2022.pdf
+    url: /assets/docs/Stromecki_CV_2022.pdf
     btn_class: "btn--primary"
     btn_label: "   CV   "
 
