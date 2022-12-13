@@ -86,7 +86,7 @@ feature_rowX:
 ---
 
 
-{% include feature_row id="feature_row_mario_" type="left" %}
+{% include feature_row id="feature_row_mario" type="left" %}
 
 {% include feature_row id="feature_row_amanda" type="left" %}
 
