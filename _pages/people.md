@@ -35,7 +35,7 @@ feature_row_kodi:
     alt: "Kodi"
     title: "Kodi Haughn"
     excerpt: "**PhD Student** (Co-Advised w/ Brandon Briggs at UAA) <br> 
-              *Research Interests*: "
+              *Research Interests*: Microbial interactions in Antarctic lakes"
 
 feature_row_becca:
   - image_path: /assets/images/Olson.jpeg
@@ -73,6 +73,21 @@ feature_row_ramirez:
     title: "Michelle Rameriz"
     excerpt: "**Undergraduate Research Assistant** <br> 
               **BLaST Scholar** <br> 
+              *Research Interests*: Microbiomes"
+
+feature_row_workman:
+  - image_path: /assets/images/Blank-profile-picture-circle-hd.png
+    alt: "Aria"
+    title: "Aria Workman"
+    excerpt: "**Undergraduate Research Assistant** <br> 
+              *Research Interests*: Microbiomes"
+
+feature_row_workman:
+  - image_path: /assets/images/Blank-profile-picture-circle-hd.png
+    alt: "Drew"
+    title: "Drew Shelton"
+    excerpt: "**Undergraduate Research Assistant** <br> 
+              **URISE Scholar** <br> 
               *Research Interests*: Microbiomes"
 
 feature_rowX:

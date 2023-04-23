@@ -6,6 +6,30 @@ author_profile: true
 permalink: /research/
 header:
   image: /assets/images/header_boreal2.jpg
+feature_row_boreal:
+  - image-path: 
+    alt: "Boreal"
+    title: "Boreal Microbial Communities"
+    excerpt: " "
+    url: "/research2/#boreal"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+feature_row_gutt:
+  - image-path: 
+    alt: "GUTT"
+    title: "Genomes Underlying Toxin Tolerance"
+    excerpt: "Herbivores must cope with plant defense compounds that may be highly toxic. The gut microbiome aids in host digestion of phytotoxins by degrading harmful molecules such as phenolics and monoterpenes. We use culturing, growth experiments, and amplicon and whole-genome sequencing to study how the host gut microbiome contributes to detoxification of plant secondary metabolites."
+    url: "/research2/#gutt"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+feature_row_energy:
+  - image-path: 
+    alt: "Energy"
+    title: "Microbial Energetics and Efficiency"
+    excerpt: " "
+    url: "/research2/#energy"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 feature_row1:
   - image_path: /assets/images/Metabolism2.jpg
     alt: "Metabolism"
@@ -14,7 +38,7 @@ feature_row1:
     url: "/research2/#metabolism"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-feature_row2:
+feature_row_resources:
   - image_path: /assets/images/ResourceDiversity2.jpg
     alt: "Heterogeneity"
     title: "Resource Heterogeneity"
@@ -22,7 +46,7 @@ feature_row2:
     url: "/research2/#heterogeneity"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-feature_row3:
+feature_row_traits:
   - image_path: /assets/images/ConceptualFigure2.jpg
     alt: "Traits"
     title: "Microbial Traits"
@@ -30,7 +54,7 @@ feature_row3:
     url: "/research2/#traits"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
-feature_row4:
+feature_row_other:
   - image_path: /assets/images/HMWF008_5x7.jpg
     alt: "Other"
     title: "Other Projects"
