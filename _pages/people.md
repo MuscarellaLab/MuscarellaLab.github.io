@@ -20,11 +20,11 @@ feature_row_mario:
     btn_label: "   CV   "
 
 feature_row_bahareh:
-  - image_path: /assets/images/Sorouri_UAF_2023_5x7.jpf
+  - image_path: /assets/images/Sorouri_UAF_2023_5x7.jpg
     alt: "Bahareh"
     title: "Bahareh Sorouri"
     excerpt: "**NSF Postdoctoral Research Fellow** <br> 
-              *Research Interests*: 
+              *Research Interests*: "
     url: "/assets/docs/Sorouri_CV_UAF_7_31_23.pdf"
     btn_class: "btn--primary"
     btn_label: "   CV   "
@@ -123,6 +123,7 @@ feature_rowX:
 {% include feature_row id="feature_row_workman" type="left" %}
 
 {% include feature_row id="feature_rowX" type="left" %}
+
 
 | **Former Lab Members**  | Role/Years |  Current  |
 | ------------- | ------------- |
