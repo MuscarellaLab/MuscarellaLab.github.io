@@ -48,7 +48,7 @@ feature_row_kodi:
               *Research Interests*: Microbial interactions in Antarctic lakes"
 
 feature_row_becca:
-  - image_path: /assets/images/Olson.jpeg
+  - image_path: /assets/images/Olson.jpg
     alt: "Becca"
     title: "Becca Olson"
     excerpt: "**MS Student** <br> 
