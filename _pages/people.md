@@ -20,7 +20,7 @@ feature_row_mario:
     btn_label: "   CV   "
 
 feature_row_bahareh:
-  - image_path: /assets/images/Sorouri_UAF_2023_5x7.jpg
+  - image_path: /assets/images/Sorouri_UAF_2023_5x7_2.jpg
     alt: "Bahareh"
     title: "Bahareh Sorouri"
     excerpt: "**NSF Postdoctoral Research Fellow** <br> 
