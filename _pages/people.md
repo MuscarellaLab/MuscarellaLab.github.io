@@ -84,7 +84,7 @@ feature_row_shelton:
               **URISE Scholar** <br> 
               *Research Interests*: Microbiomes, GUTT"
 
-              feature_row_workman:
+feature_row_workman:
   - image_path: /assets/images/Blank-profile-picture-circle-hd.png
     alt: "Aria"
     title: "Aria Workman"
@@ -124,3 +124,10 @@ feature_rowX:
 
 {% include feature_row id="feature_rowX" type="left" %}
 
+| **Former Lab Members**  | Role/Years |  Current  |
+| ------------- | ------------- |
+| Julian Pender  | URA; INBRE Scholar 2021-2023  | Graduate |
+| Tyler Baker-Chapman  | URA; BLaST Scholar 2022-2023 | Applying to Med School | 
+| Kaia Victorino | URA; LTER REU | |
+| Shannyn Bird|  Lab Technician | | 
+| Jill Jacobs | URA; BLaST Scholar| |
