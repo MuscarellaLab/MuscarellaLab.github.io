@@ -2,11 +2,11 @@
 ---
 ##  Past Lab Members
 
+
+
 | Who                                                         | When       |                                                                                                                                  What                                                                                                                                   | Where Now? |
 | ----------------------------------------------------------- | :--------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------- |
-| ** Kaia Victorino**, University of Alaska Fairbanks, **BNZ LTER REU Research Assistant** One Health - promoting the health of the natural world 
-| ** Shannyn Bird** Lab Technician. Computational biology, molecular genetics, metabolic biochemistry, and cell cycle control
-| ** Jill Jacobs**, **Undergraduate Research Assistant**  **BLaST Scholar**
+
 | ** 
 | **Belen Muniz**, University of Illinois at Urbana-Champaign | 2017--2018 |                                                          theoretical framework to understand how allochthonous and autochthonous resources interact and influence the composition and stability of communities                                                          |            |
 | **Mollie Carrison**, Indiana University                     | 2015--2016 |                                                                    Mollie worked on an experiment system to quantify the variation in population size decay when microbial populations are starving                                                                     |            |

@@ -25,7 +25,7 @@ feature_row_bahareh:
     title: "Bahareh Sorouri"
     excerpt: "**NSF Postdoctoral Research Fellow** <br> 
               *Research Interests*: "
-    url: "/assets/docs/Sorouri_CV_UAF_7_31_23.pdf"
+    url: "/assets/docs/Sorouri_CV_8_23"
     btn_class: "btn--primary"
     btn_label: "   CV   "
 
@@ -124,11 +124,21 @@ feature_rowX:
 
 {% include feature_row id="feature_rowX" type="left" %}
 
+| **Visiting Scholars**  |  Home Institution  |
+| ------------- | ------------- |
+| Maria Beaulieu | BNZ LTER REU | UMass Amherst |
+| Julian Pender  | URA; INBRE Scholar 2021-2023  | UAF Graduate |
+| Tyler Baker-Chapman  | URA; BLaST Scholar 2022-2023 | Applying to Med School | 
+| Kaia Victorino | URA; LTER REU | UAF |
+| Shannyn Bird|  Lab Technician | | 
+| Jill Jacobs | URA; BLaST Scholar| UAF Graduate |
+
 
 | **Former Lab Members**  | Role/Years |  Current  |
 | ------------- | ------------- |
-| Julian Pender  | URA; INBRE Scholar 2021-2023  | Graduate |
+| Maria Beaulieu | BNZ LTER REU | UMass Amherst |
+| Julian Pender  | URA; INBRE Scholar 2021-2023  | UAF Graduate |
 | Tyler Baker-Chapman  | URA; BLaST Scholar 2022-2023 | Applying to Med School | 
-| Kaia Victorino | URA; LTER REU | |
+| Kaia Victorino | URA; LTER REU | UAF |
 | Shannyn Bird|  Lab Technician | | 
-| Jill Jacobs | URA; BLaST Scholar| |
+| Jill Jacobs | URA; BLaST Scholar| UAF Graduate |
