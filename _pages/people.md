@@ -25,7 +25,7 @@ feature_row_bahareh:
     title: "Bahareh Sorouri"
     excerpt: "**NSF Postdoctoral Research Fellow** <br> 
               *Research Interests*: "
-    url: "/assets/docs/Sorouri_CV_8_23"
+    url: "/assets/docs/Sorouri_CV_8_23.pdf"
     btn_class: "btn--primary"
     btn_label: "   CV   "
 
