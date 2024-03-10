@@ -10,8 +10,16 @@ feature_row_boreal:
   - image-path: 
     alt: "Boreal"
     title: "Boreal Microbial Communities"
-    excerpt: " "
+    excerpt: "As part of our collaborations with the BNZ LTER program. "
     url: "/research2/#boreal"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+feature_row_thermokarst:
+  - image-path: 
+    alt: "Thermokast"
+    title: "Climate Change in Arctic Ecosystems"
+    excerpt: "This project evaluates the daily to decadal biogeochemical consequences of landscape evolution: from microbes to landscapes. We hypothesize that the altered spatiotemporal distribution of degrading nutrient-rich permafrost has/will fundamentally alter the micro-to- macro structure and function of northern tundra ecosystems."
+    url: "/research2/#thermokarst"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row_gutt:
@@ -30,7 +38,7 @@ feature_row_energy:
     url: "/research2/#energy"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-feature_row1:
+feature_row_metabolism:
   - image_path: /assets/images/Metabolism2.jpg
     alt: "Metabolism"
     title: "Microbial Metabolism"
@@ -67,11 +75,11 @@ feature_row_other:
 
 Our research addresses questions related to the responses of microbial populations, communities, and ecosystems to changes in the resource environment. Specifically, we ask questions related to how the supply and diversity of resources alters the composition and function of communities, and how the traits and species interactions link structure and function. To answer these questions, we use a mixture of field, lab, bioinformatics, and theoretical approaches. Using these diverse approaches our research bridges microbiology and community and ecosystem ecology.
 
-{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="ffeature_row_boreal" type="left" %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row_thermakarst" type="left" %}
 
-{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row_gutt" type="left" %}
 
-{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="feature_row_metabolism" type="left" %}
 

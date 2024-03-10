@@ -62,7 +62,7 @@ feature_row_hannah:
               *Research Interests*: Microbial Energetics, Astrobiology"
 
 feature_row_grahek:
-  - image_path: /assets/images/Blank-profile-picture-circle-hd.png
+  - image_path: /assets/images/Grahek.jpg
     alt: "Maura"
     title: "Maura Grahek"
     excerpt: "**Undergraduate Research Assistant** <br> 
@@ -77,7 +77,7 @@ feature_row_ramirez:
               *Research Interests*: Microbiomes, GUTT"
 
 feature_row_shelton:
-  - image_path: /assets/images/Blank-profile-picture-circle-hd.png
+  - image_path: /assets/images/Shelton.jpg
     alt: "Drew"
     title: "Drew Shelton"
     excerpt: "**Undergraduate Research Assistant** <br> 
@@ -85,7 +85,7 @@ feature_row_shelton:
               *Research Interests*: Microbiomes, GUTT"
 
 feature_row_workman:
-  - image_path: /assets/images/Blank-profile-picture-circle-hd.png
+  - image_path: /assets/images/Workman.jpg
     alt: "Aria"
     title: "Aria Workman"
     excerpt: "**Undergraduate Research Assistant** <br> 
@@ -126,18 +126,14 @@ feature_rowX:
 
 | **Visiting Scholars**  |  Home Institution  |
 | ------------- | ------------- |
-| Maria Beaulieu | BNZ LTER REU | UMass Amherst |
-| Julian Pender  | URA; INBRE Scholar 2021-2023  | UAF Graduate |
-| Tyler Baker-Chapman  | URA; BLaST Scholar 2022-2023 | Applying to Med School | 
-| Kaia Victorino | URA; LTER REU | UAF |
-| Shannyn Bird|  Lab Technician | | 
-| Jill Jacobs | URA; BLaST Scholar| UAF Graduate |
+| Lorenzo Tonin | Insubria University |
+| Hailey Webb | UC Boulder | 
 
 
 | **Former Lab Members**  | Role/Years |  Current  |
 | ------------- | ------------- |
 | Maria Beaulieu | BNZ LTER REU | UMass Amherst |
-| Julian Pender  | URA; INBRE Scholar 2021-2023  | UAF Graduate |
+| Julian Pender  | URA; INBRE Scholar 2021-2023  | Research Professional |
 | Tyler Baker-Chapman  | URA; BLaST Scholar 2022-2023 | Applying to Med School | 
 | Kaia Victorino | URA; LTER REU | UAF |
 | Shannyn Bird|  Lab Technician | | 
