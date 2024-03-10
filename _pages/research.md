@@ -18,7 +18,7 @@ feature_row_thermokarst:
   - image_path: /assets/images/HMWF008_5x7.jpg
     alt: "Thermokast"
     title: "Climate Change in Arctic Ecosystems"
-    excerpt: "This project evaluates the daily to decadal biogeochemical consequences of landscape evolution: from microbes to landscapes. We hypothesize that the altered spatiotemporal distribution of degrading nutrient-rich permafrost has/will fundamentally alter the micro-to- macro structure and function of northern tundra ecosystems."
+    excerpt: "This project evaluates the daily to decadal biogeochemical consequences of landscape evolution: from microbes to landscapes. We hypothesize that the altered spatiotemporal distribution of degrading nutrient-rich permafrost has and will fundamentally alter the micro-to- macro structure and function of northern tundra ecosystems."
     url: "/research2/#thermokarst"
     btn_class: "btn--primary"
     btn_label: "Learn more"
