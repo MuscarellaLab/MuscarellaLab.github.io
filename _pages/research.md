@@ -10,7 +10,7 @@ feature_row_boreal:
   - image_path: /assets/images/HMWF008_5x7.jpg
     alt: "Boreal"
     title: "Boreal Microbial Communities"
-    excerpt: "As part of our collaborations with the BNZ LTER program. "
+    excerpt: "As part of our collaborations with the BNZ LTER program."
     url: "/research2/#boreal"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -75,7 +75,7 @@ feature_row_other:
 
 Our research addresses questions related to the responses of microbial populations, communities, and ecosystems to changes in the resource environment. Specifically, we ask questions related to how the supply and diversity of resources alters the composition and function of communities, and how the traits and species interactions link structure and function. To answer these questions, we use a mixture of field, lab, bioinformatics, and theoretical approaches. Using these diverse approaches our research bridges microbiology and community and ecosystem ecology.
 
-{% include feature_row id="ffeature_row_boreal" type="left" %}
+{% include feature_row id="feature_row_boreal" type="left" %}
 
 {% include feature_row id="feature_row_thermakarst" type="left" %}
 
