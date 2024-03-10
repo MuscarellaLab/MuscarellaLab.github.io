@@ -7,7 +7,7 @@ permalink: /research/
 header:
   image: /assets/images/header_boreal2.jpg
 feature_row_boreal:
-  - image-path: 
+  - image_path: /assets/images/HMWF008_5x7.jpg
     alt: "Boreal"
     title: "Boreal Microbial Communities"
     excerpt: "As part of our collaborations with the BNZ LTER program. "
@@ -15,7 +15,7 @@ feature_row_boreal:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row_thermokarst:
-  - image-path: 
+  - image_path: /assets/images/HMWF008_5x7.jpg
     alt: "Thermokast"
     title: "Climate Change in Arctic Ecosystems"
     excerpt: "This project evaluates the daily to decadal biogeochemical consequences of landscape evolution: from microbes to landscapes. We hypothesize that the altered spatiotemporal distribution of degrading nutrient-rich permafrost has/will fundamentally alter the micro-to- macro structure and function of northern tundra ecosystems."
@@ -23,7 +23,7 @@ feature_row_thermokarst:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row_gutt:
-  - image-path: 
+  - image_path: /assets/images/HMWF008_5x7.jpg
     alt: "GUTT"
     title: "Genomes Underlying Toxin Tolerance"
     excerpt: "Herbivores must cope with plant defense compounds that may be highly toxic. The gut microbiome aids in host digestion of phytotoxins by degrading harmful molecules such as phenolics and monoterpenes. We use culturing, growth experiments, and amplicon and whole-genome sequencing to study how the host gut microbiome contributes to detoxification of plant secondary metabolites."
@@ -31,7 +31,7 @@ feature_row_gutt:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row_energy:
-  - image-path: 
+  - image_path: /assets/images/HMWF008_5x7.jpg
     alt: "Energy"
     title: "Microbial Energetics and Efficiency"
     excerpt: " "
