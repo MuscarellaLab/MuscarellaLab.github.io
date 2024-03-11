@@ -14,21 +14,21 @@ excerpt:
   Institute of Arctic Biology <br>
   University of Alaska Fairbanks
 feature_row:
-  - image_path: /assets/images/Search.png
+  - image_path: /assets/images/Current.jpg
     alt: "Research"
     title: "Current Research"
     excerpt: "We have a number of ongoing projects that explore the ecology and physiology of microbial communities across ecosystems."
     url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/Collaborate.png
+  - image_path: /assets/images/LabMembers.jpg
     alt: "People"
     title: "Lab Members"
     excerpt: "We are a new but growing reserach group. Learn more about the research group and our interests."
     url: "/people/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/Join.png
+  - image_path: /assets/images/Opportunities.jpg
     alt: "Opportunities"
     title: "Opportunities"
     excerpt: "We are looking for motivated individuals to join our collaborative team. Opportunities for technicians, undergraduates and graduate students."

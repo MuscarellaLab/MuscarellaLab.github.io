@@ -70,5 +70,5 @@ Our research addresses questions related to the responses of microbial populatio
 
 {% include feature_row id="feature_row_traits" type="left" %}
 
-{% include feature_row id="feature_row_others" type="left" %}
+{% include feature_row id="feature_row_other" type="left" %}
 

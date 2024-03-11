@@ -97,7 +97,10 @@ author:
   avatar           : "/assets/images/Lab_2Kx2K.jpg"
   bio              : "Microbial Ecology and <br> Ecophysiology Lab <br>  <br> 
                       We are an **amazing** lab!"
-  location         : "Fairbanks, AK"
+  location         : "University of Alaska Fairbanks <br>
+                      Lab: WRRB 205 <br>
+                      Office: WRRB 242
+                      Fairbanks, AK"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
