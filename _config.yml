@@ -95,12 +95,12 @@ analytics:
 author:
   name             : "Muscarella Lab"
   avatar           : "/assets/images/Lab_2Kx2K.jpg"
-  bio              : "Microbial Ecology and <br> Ecophysiology Lab <br>  <br> 
-                      We are an **amazing** lab!"
-  location         : "University of Alaska Fairbanks <br>
+  bio              : "Microbial Ecology and <br> Ecophysiology Lab <br> 
+                      University of Alaska Fairbanks <br>
                       Lab: WRRB 205 <br>
-                      Office: WRRB 242
-                      Fairbanks, AK"
+                      Office: WRRB 242 <br> <br>
+                      We are an **amazing** lab!"
+  location         : "Fairbanks, AK"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
