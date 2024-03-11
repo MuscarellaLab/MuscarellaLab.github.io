@@ -124,6 +124,7 @@ feature_rowX:
 
 {% include feature_row id="feature_rowX" type="left" %}
 
+
 | **Visiting Scholars**  |  Home Institution  |
 | ------------- | ------------- |
 | Lorenzo Tonin | Insubria University |
