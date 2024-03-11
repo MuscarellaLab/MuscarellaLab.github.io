@@ -63,8 +63,8 @@ feature_row_hannah:
 
 feature_row_grahek:
   - image_path: /assets/images/Grahek.jpg
-    alt: "Maura"
-    title: "Maura Grahek"
+    alt: "MaUndergraduate Research Assistant"
+    title: "MaUndergraduate Research Assistant Grahek"
     excerpt: "**Undergraduate Research Assistant** <br> 
               *Research Interests*: Microbiomes, LTER"
 
@@ -125,17 +125,27 @@ feature_rowX:
 {% include feature_row id="feature_rowX" type="left" %}
 
 
-| **Visiting Scholars**  |  Home Institution  |
+| **Visiting Scholars**  | Role |  Home Institution  |
 | ------------- | ------------- |
-| Lorenzo Tonin | Insubria University |
-| Hailey Webb | UC Boulder | 
+| Lorenzo Tonin | PhD Student; Insubria Polar |  University of Insubria |
+| Hailey Webb | PhD Student; BNZ LTER | UC Boulder | 
 
 
-| **Former Lab Members**  | Role/Years |  Current  |
+| **Former Lab Members**  | Role/Years |  Current Position |
 | ------------- | ------------- |
-| Maria Beaulieu | BNZ LTER REU | UMass Amherst |
-| Julian Pender  | URA; INBRE Scholar 2021-2023  | Research Professional |
-| Tyler Baker-Chapman  | URA; BLaST Scholar 2022-2023 | Applying to Med School | 
-| Kaia Victorino | URA; LTER REU | UAF |
+| Maria Beaulieu | BNZ LTER REU; 2023 | UMass Amherst |
+| Julian Pender  | Undergraduate Research Assistant; INBRE Scholar 2021-2023  | Research Professional |
+| Tyler Baker-Chapman  | Undergraduate Research Assistant; BLaST Scholar 2022-2023 | Applying to Med School |
+| Emma Lin | BNZ LTER REU; 2022 | Skidmore Collage | 
+| Rya Berrigan | Undergraduate Research Assistant; 2022 | Medical School 
+| Kaia Victorino | Undergraduate Research Assistant; BNZ LTER REU; 2021 | UAF |
 | Shannyn Bird|  Lab Technician | | 
-| Jill Jacobs | URA; BLaST Scholar| UAF Graduate |
+| Jill Jacobs | Undergraduate Research Assistant; BLaST Scholar | UAF Graduate |
+| Amelia Dell | Undergraduate Research Assistant 2021 | UAF Graduate |
+| Abigail Jensen | Undergraduate Research Assistant; 2021 | UAF Graduate |
+
+
+| **Previous Mentees**  | Role/Years |  Current Position |
+| Belen Muniz | UIUC; 2017--2018 | |
+| Mollie Carrision | Indiana University; 2015--2016 | |
+| Xia Meng Howey | Indiana University; 2013--2015 | |
