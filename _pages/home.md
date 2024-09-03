@@ -7,7 +7,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/header_boreal.jpg
+  overlay_image: /assets/images/header_tundra.jpg
   overlay_filter: 0.30
 excerpt: 
   The Microbial Ecology and Ecophysiology Lab <br>

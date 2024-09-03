@@ -47,6 +47,20 @@ feature_row_kodi:
     excerpt: "**PhD Student** (Co-Advised w/ Brandon Briggs at UAA) <br> 
               *Research Interests*: Microbial interactions in Antarctic lakes"
 
+feature_row_morgan:
+  - image_path: /assets/images/Brown.jpg
+    alt: "Morgan"
+    title: "Morgan Brown"
+    excerpt: "**PhD Student** <br> 
+              *Research Interests*: "          
+
+feature_row_paige:
+  - image_path: /assets/images/Paulsen.jpg
+    alt: "Paige"
+    title: "Paige Paulsen"
+    excerpt: "**MS Student** <br> 
+              *Research Interests*: " 
+
 feature_row_becca:
   - image_path: /assets/images/Olson.jpg
     alt: "Becca"
@@ -110,17 +124,13 @@ feature_rowX:
 
 {% include feature_row id="feature_row_kodi" type="left" %}
 
-{% include feature_row id="feature_row_becca" type="left" %}
+{% include feature_row id="feature_row_morgan" type="left" %}
 
-{% include feature_row id="feature_row_hannah" type="left" %}
+{% include feature_row id="feature_row_paige" type="left" %}
 
 {% include feature_row id="feature_row_grahek" type="left" %}
 
 {% include feature_row id="feature_row_ramirez" type="left" %}
-
-{% include feature_row id="feature_row_shelton" type="left" %}
-
-{% include feature_row id="feature_row_workman" type="left" %}
 
 {% include feature_row id="feature_rowX" type="left" %}
 
@@ -133,6 +143,15 @@ feature_rowX:
 
 | **Former Lab Members**  | Role/Years |  Current Position |
 | ------------- | ------------- |
+| Graduate Students | | |
+| ------------- | ------------- |
+| Hannah Woody | MS Student; 2022 -- 2024 | Arctic Data Services | 
+| Becca Olson | MS Student: 2022 -- 2024 | AK DEC |
+| ------------- | ------------- |
+| Undergraduate Students | | |
+| ------------- | ------------- |
+| Drew Shelton | Undergraduate Research Assistant; 2022 -- 2024 | |
+| Aria Workman | Undergraduate Research Assistant; 2022 -- 2024 | |
 | Maria Beaulieu | BNZ LTER REU; 2023 | UMass Amherst |
 | Julian Pender  | Undergraduate Research Assistant; INBRE Scholar 2021-2023  | Research Professional |
 | Tyler Baker-Chapman  | Undergraduate Research Assistant; BLaST Scholar 2022-2023 | Applying to Med School |
