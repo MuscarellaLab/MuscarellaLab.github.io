@@ -77,8 +77,8 @@ feature_row_hannah:
 
 feature_row_grahek:
   - image_path: /assets/images/Grahek.jpg
-    alt: "MaUndergraduate Research Assistant"
-    title: "MaUndergraduate Research Assistant Grahek"
+    alt: "Maura"
+    title: "Maura Grahek"
     excerpt: "**Undergraduate Research Assistant** <br> 
               *Research Interests*: Microbiomes, LTER"
 
@@ -143,12 +143,12 @@ feature_rowX:
 
 | **Former Lab Members**  | Role/Years |  Current Position |
 | ------------- | ------------- |
-| Graduate Students | | |
+| **Graduate Students** | | |
 | ------------- | ------------- |
 | Hannah Woody | MS Student; 2022 -- 2024 | Arctic Data Services | 
 | Becca Olson | MS Student: 2022 -- 2024 | AK DEC |
 | ------------- | ------------- |
-| Undergraduate Students | | |
+| **Undergraduate Students** | | |
 | ------------- | ------------- |
 | Drew Shelton | Undergraduate Research Assistant; 2022 -- 2024 | |
 | Aria Workman | Undergraduate Research Assistant; 2022 -- 2024 | |
@@ -162,9 +162,9 @@ feature_rowX:
 | Jill Jacobs | Undergraduate Research Assistant; BLaST Scholar | UAF Graduate |
 | Amelia Dell | Undergraduate Research Assistant 2021 | UAF Graduate |
 | Abigail Jensen | Undergraduate Research Assistant; 2021 | UAF Graduate |
-
-
-| **Previous Mentees**  | Role/Years |  Current Position |
+| ------------- | ------------- |
+| **Previous Mentees**  |  |  
+| ------------- | ------------- |
 | Belen Muniz | UIUC; 2017--2018 | |
 | Mollie Carrision | Indiana University; 2015--2016 | |
 | Xia Meng Howey | Indiana University; 2013--2015 | |
