@@ -52,7 +52,7 @@ feature_row_morgan:
     alt: "Morgan"
     title: "Morgan Brown"
     excerpt: "**PhD Student** <br> 
-              *Research Interests*: "          
+              *Research Interests*: Microbial ecology, soil biogeochemistry, carbon cycling. Understanding microbial responses to disturbance, and subsequent impacts on carbon cycling and ecosystem functions in the context of climate change."          
 
 feature_row_paige:
   - image_path: /assets/images/Paulsen.jpg
@@ -80,7 +80,16 @@ feature_row_grahek:
     alt: "Maura"
     title: "Maura Grahek"
     excerpt: "**Undergraduate Research Assistant** <br> 
-              *Research Interests*: Microbiomes, LTER"
+              *2023-24 URSA Scholar <br>  
+              *Research Interests*: Microbiomes"
+
+feature_row_berrigan:
+  - image_path: /assets/images/Berrigan_Aila.jpg
+    alt: "Aila"
+    title: "Aila Berrigan"
+    excerpt: "**Undergraduate Research Assistant** <br> 
+              *2024-25 URSA Climate Scholar <br> 
+              *Research Interests*: Microbiomes, Climate Change"
 
 feature_row_ramirez:
   - image_path: /assets/images/Ramirez.jpg
@@ -129,6 +138,8 @@ feature_rowX:
 {% include feature_row id="feature_row_paige" type="left" %}
 
 {% include feature_row id="feature_row_grahek" type="left" %}
+
+{% include feature_row id="feature_row_berrigan" type="left" %}
 
 {% include feature_row id="feature_row_ramirez" type="left" %}
 
