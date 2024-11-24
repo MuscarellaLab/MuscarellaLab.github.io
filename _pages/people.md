@@ -80,7 +80,7 @@ feature_row_grahek:
     alt: "Maura"
     title: "Maura Grahek"
     excerpt: "**Undergraduate Research Assistant** <br> 
-              *2023-24 URSA Scholar <br>  
+              **2023-24 URSA Scholar** <br>  
               *Research Interests*: Microbiomes"
 
 feature_row_berrigan:
@@ -88,7 +88,7 @@ feature_row_berrigan:
     alt: "Aila"
     title: "Aila Berrigan"
     excerpt: "**Undergraduate Research Assistant** <br> 
-              *2024-25 URSA Climate Scholar <br> 
+              **2024-25 URSA Climate Scholar** <br> 
               *Research Interests*: Microbiomes, Climate Change"
 
 feature_row_ramirez:
