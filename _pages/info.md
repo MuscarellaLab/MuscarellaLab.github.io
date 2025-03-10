@@ -27,8 +27,6 @@ Lab: <br>
 WRRB 207 <br>
 
 
-## DEIJ
-The Muscarella Lab strives to increase diversity, equity, inclusion, and justice in all elements of our work, our collaborations, and the broader scientific culture. 
 
 “Do the best you can until you know better. Then when you know better, do better.” ― Maya Angelou 
 
