@@ -69,8 +69,10 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
+bluesky: 
+  username               : mmuscarella
 twitter:
-  username               : # MarioMuscarella
+  username               : 
 facebook:
   username               :
   app_id                 :
