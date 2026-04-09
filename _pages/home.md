@@ -9,7 +9,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/header_tundra.jpg
   overlay_filter: 0.30
-excerpt: 
+excerpt:
   The Microbial Ecology and Ecophysiology Lab <br>
   Institute of Arctic Biology <br>
   University of Alaska Fairbanks
@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/images/LabMembers.jpg
     alt: "People"
     title: "Lab Members"
-    excerpt: "We are a new but growing reserach group. Learn more about the research group and our interests."
+    excerpt: "We are a new but growing research group. Learn more about the research group and our interests."
     url: "/people/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -34,9 +34,9 @@ feature_row:
     excerpt: "We are looking for motivated individuals to join our collaborative team. Opportunities for technicians, undergraduates and graduate students."
     url: "/opportunities/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more"
 ---
 
-We are broadly interested in the role of microorganisms in the environment and how environmental changes alter the structure and function of microbial communities in natural and host ecosystems. We are interested in how microbial communities respond to changes in local resources (e.g., carbon), and how changing landscapes alter microbial processes. These responses may include differences in community composition, species interactions, functional traits, and ecosystem processes. Our research uses a mixture of field observations, laboratory experimentation, bioinformatics, and theory. Learn more about our current work [here]( {{ site.url }}/research) and opportunities to join our group [here]( {{ site.url }}/opportunities).
+We are broadly interested in the role of microorganisms in the environment and how environmental changes alter the structure and function of microbial communities in natural and host ecosystems. We are interested in how microbial communities respond to changes in local resources (e.g., carbon), and how changing landscapes alter microbial processes. These responses may include differences in community composition, species interactions, functional traits, and ecosystem processes. Our research uses a mixture of field observations, laboratory experimentation, bioinformatics, and theory. Learn more about our current work [here]({{ site.url }}/research/) and opportunities to join our group [here]({{ site.url }}/opportunities/).
 
 {% include feature_row %}
