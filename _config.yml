@@ -110,9 +110,12 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Bluesky"
-      icon: "fas fa-fw fa-link"
+    - label: "Bsky"
+      icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/mmuscarella.bsky.social"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/mario-muscarella-409867a/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -126,9 +129,12 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Bluesky"
-      icon: "fas fa-fw fa-link"
+    - label: "Bsky"
+      icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/mmuscarella.bsky.social"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/mario-muscarella-409867a/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
