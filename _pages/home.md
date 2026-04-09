@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/images/LabMembers.jpg
     alt: "People"
     title: "Lab Members"
-    excerpt: "We are a new but growing research group. Learn more about the research group and our interests."
+    excerpt: "We are a growing research group. Learn more about the research group and our interests."
     url: "/people/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
