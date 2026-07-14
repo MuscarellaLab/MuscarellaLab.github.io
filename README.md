@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Muscarella Lab Website
 
-You can use the [editor on GitHub](https://github.com/MuscarellaLab/MuscarellaLab.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository contains the GitHub Pages site for the Muscarella Lab, built with Jekyll and the Minimal Mistakes theme.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Local Development
 
-### Markdown
+This repo uses the `github-pages` gem and requires **Ruby 3.3** and **Bundler 2.5.20**.
+Install Ruby 3.3 via Homebrew if needed: `brew install ruby@3.3`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Install the required Bundler version:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```bash
+/opt/homebrew/opt/ruby@3.3/bin/gem install bundler:2.5.20
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+2. Install dependencies:
 
-### Jekyll Themes
+```bash
+/opt/homebrew/opt/ruby@3.3/bin/bundle _2.5.20_ install
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MuscarellaLab/MuscarellaLab.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+3. Build the site:
 
-### Support or Contact
+```bash
+/opt/homebrew/opt/ruby@3.3/bin/bundle _2.5.20_ exec jekyll build
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+4. Serve locally:
+
+```bash
+/opt/homebrew/opt/ruby@3.3/bin/bundle _2.5.20_ exec jekyll serve
+```
+
+## Notes
+
+- Main content pages live in `_pages/`.
+- Navigation links are configured in `_data/navigation.yml`.
+- Static files are in `assets/`.

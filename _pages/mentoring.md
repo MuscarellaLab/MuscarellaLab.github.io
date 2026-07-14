@@ -18,7 +18,7 @@ My teaching philosophy is built upon the following:
 + Diverse Assessments
 
 ---
-<!-->
+<!--
 # Course Development
 
 **Evolution of Molecules and Cells**
@@ -28,13 +28,10 @@ As part of a graduate education course, I developed a broad microbial ecology co
 
 Course Materials:
 
-+ [example syllabus]({{ site.url }}/docs/Muscarella_MicrobialEcology_Syllabus.pdf)
-+ [example lesson plan]({{ site.url }}/docs/Muscarella_MicrobialEcology_LessonPlanExample.pdf)
-+ [example assignment]({{ site.url }}/docs/Muscarella_MicrobialEcology_AssignmentExample.pdf)
-+ [example lab activity]({{ site.url }}/docs/Muscarella_MicrobialEcology_LabExample.pdf)
+Course materials available upon request.
 
 ---
-<-->
+-->
 
 
 # Previous Courses
